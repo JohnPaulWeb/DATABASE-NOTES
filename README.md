@@ -54,7 +54,7 @@ Individuals Involved with a Database Management System
 tie the database to other programs
 
 
-ADVANTAGE AND DISADVANTAGE DBMS Approach
+ADVANTAGE AND DBMS Approach
 Advantages
  Low level of redundancy
 Faster response time
@@ -64,3 +64,18 @@ Easier to secure
 
  Disadvantages
 • Increased vulnerability (backup is essential)
+
+
+DATA CONCEPTS CHARACTERISTICS
+
+Data Hierarchy
+– Fields/columns
+• Hold single pieces of data
+– Records/rows
+• Groups of related fields
+– Tables
+• Collection of related records
+– Database
+• Contains a group of related tables
+
+
