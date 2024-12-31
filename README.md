@@ -42,8 +42,6 @@ tables
 
 
 
-
-
 Individuals Involved with a Database Management System
 – Database Designers
 • Design the database
